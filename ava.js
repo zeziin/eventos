@@ -40,7 +40,7 @@ var idade = readlineSync.question("insira a idade: ");
         var contador = 0
         var continuar = 0
         var nomes = [];
-        var limite = 3;
+        var limite = 100;
 
         while(contador < limite && continuar == 0){
 
